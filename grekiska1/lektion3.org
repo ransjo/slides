@@ -4,7 +4,7 @@
 #+LANGUAGE: sv
 #+INCLUDE: ~/.emacs.d/org-templates/reveal.org
 #+OPTIONS: toc:1
-#+REVEAL_EXTRA_CSS: /css/greek.css
+#+REVEAL_EXTRA_CSS: /slides/css/greek.css
 
 
 * Kort förhör
