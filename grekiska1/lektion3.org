@@ -67,7 +67,7 @@
  <hr/>
  <table>
  <tbody>
- <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">pl. nom</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">s. nom</td></tr>
  <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">ας</span></span></td><td style="text-align: right">gen</td></tr>
  <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">ᾳ</span></span></td><td style="text-align: right">dat</td></tr>
  <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">αν</span></span></td><td style="text-align: right">ack</td></tr>
@@ -86,7 +86,7 @@
  <hr/>
  <table>
  <tbody>
- <tr><td><span class="fragment lib"><span style="color:deepskyblue">ἡ</span> καλ<span style="color:deepskyblue">ὴ</span> οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">pl. nom</td></tr>
+ <tr><td><span class="fragment lib"><span style="color:deepskyblue">ἡ</span> καλ<span style="color:deepskyblue">ὴ</span> οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">s. nom</td></tr>
  <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ῆς</span> καλ<span style="color:deepskyblue">ῆς</span> οἰκί<span style="color:deepskyblue">ας</span></span></td><td style="text-align: right">gen</td></tr>
  <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ῇ</span> καλ<span style="color:deepskyblue">ῇ</span> οἰκί<span style="color:deepskyblue">ᾳ</span></span></td><td style="text-align: right">dat</td></tr>
  <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ὴν</span> καλ<span style="color:deepskyblue">ὴν</span> οἰκί<span style="color:deepskyblue">αν</span></span></td><td style="text-align: right">ack</td></tr>
@@ -123,7 +123,7 @@
    <hr/>
    <table>
    <tbody>
-   <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">ος</span></span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">ος</span></span></td><td style="text-align: right">s. nom</td></tr>
    <tr><td><span class="fragment lib">ἀνθρώπ<span class="masc">ου</span></span></td><td style="text-align: right">gen</td></tr>
    <tr><td><span class="fragment lib">ἀνθρώπ<span class="masc">ῳ</span></span></td><td style="text-align: right">dat</td></tr>
    <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">ον</span></span></td><td style="text-align: right">ack</td></tr>
@@ -143,7 +143,7 @@
    <hr/>
    <table>
    <tbody>
-   <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ὸς</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ὸς</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">s. nom</td></tr>
    <tr span class="fragment lib"><td>ἀγαθ<span class="masc">οῦ</span></td><td>ἀνθρώπ<span class="masc">ου</span></td><td style="text-align: right">gen</td></tr>
    <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ῷ</span></td><td>ἀνθρώπ<span class="masc">ῳ</span></td><td style="text-align: right">dat</td></tr>
    <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ὸν</span></td><td>ἄνθρωπ<span class="masc">ον</span></td><td style="text-align: right">ack</td></tr>
@@ -163,7 +163,7 @@
    <hr/>
    <table>
    <tbody>
-   <tr span class="fragment lib"><td><span class="masc">ὁ</span></td><td>ἀγαθ<span class="masc">ὸς</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr span class="fragment lib"><td><span class="masc">ὁ</span></td><td>ἀγαθ<span class="masc">ὸς</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">s. nom</td></tr>
    <tr span class="fragment lib"><td>τ<span class="masc">οῦ</span></td><td>ἀγαθ<span class="masc">οῦ</span></td><td>ἀνθρώπ<span class="masc">ου</span></td><td style="text-align: right">gen</td></tr>
    <tr span class="fragment lib"><td>τ<span class="masc">ῷ</span></td><td>ἀγαθ<span class="masc">ῷ</span></td><td>ἀνθρώπ<span class="masc">ῳ</span></td><td style="text-align: right">dat</td></tr>
    <tr span class="fragment lib"><td>τ<span class="masc">ὸν</span></td><td>ἀγαθ<span class="masc">ὸν</span></td><td>ἄνθρωπ<span class="masc">ον</span></td><td style="text-align: right">ack</td></tr>
@@ -182,7 +182,7 @@
     #+BEGIN_HTML
    <table>
    <tbody>
-   <tr span class="fragment lib"><td><span class="fem">ἡ</span></td><td>οἰκί<span class="fem">α</span></td><td/><td><span class="masc">ὁ</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">pl. nom</td><td style="text-align:right">- / -ς</td></tr>
+   <tr span class="fragment lib"><td><span class="fem">ἡ</span></td><td>οἰκί<span class="fem">α</span></td><td/><td><span class="masc">ὁ</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">s. nom</td><td style="text-align:right">- / -ς</td></tr>
    <tr span class="fragment lib"><td>τ<span class="fem">ῆς</span></td><td>οἰκί<span class="fem">ας</span></td><td/><td>τ<span class="masc">οῦ</span></td><td>ἀνθρώπ<span class="masc">ου</span></td><td style="text-align: right">gen</td><td style="text-align:right">-ς / -(ι)ο</td></tr>
    <tr span class="fragment lib"><td>τ<span class="fem">ῇ</span></td><td>οἰκί<span class="fem">ᾳ</span></td><td/><td>τ<span class="masc">ῷ</span><td>ἀνθρώπ<span class="masc">ῳ</span></td><td style="text-align: right">dat</td><td style="text-align:right">-ι</td></tr>
    <tr span class="fragment lib"><td>τ<span class="fem">ὴν</span></td><td>οἰκί<span class="fem">αν</span></td><td/><td>τ<span class="masc">ὸν</span></td><td>ἄνθρωπ<span class="masc">ον</span></td><td style="text-align: right">ack</td><td style="text-align:right">-ν</td></tr>
