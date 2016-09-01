@@ -1,0 +1,476 @@
+#+Title: Grekiska 1, Lektion 3
+#+Author: Jonas Ransjö
+#+Email: jonas.ransjo@lingfil.uu.se
+#+LANGUAGE: sv
+#+INCLUDE: ~/.emacs.d/org-templates/reveal.org
+#+OPTIONS: toc:1
+#+REVEAL_EXTRA_CSS: /css/greek.css
+
+
+* Kort förhör
+** Presens indikativ aktivum av verb på -ω och εἰμί
+    - λύω
+    - γράφω
+    - εἰμί
+*** λύω
+ #+BEGIN_HTML
+ <hr/>
+ <table><tbody>
+ <tr><td><span class="fragment lib">λύ<span style="color: red">ω</span></span></td><td>jag löser</td></tr>
+ <tr><td><span class="fragment lib">λύ<span style="color: red">εις</span></span></td><td>du löser</td></tr>
+ <tr><td><span class="fragment lib">λύ<span style="color: red">ει</span></span></td><td>han/hon löser</td></tr>
+ <tr><td><span class="fragment lib">λύ<span style="color: red">ομεν</span></span></td><td>vi löser</td></tr>
+ <tr><td><span class="fragment lib">λύ<span style="color: red">ετε</span></span></td><td>ni löser</td></tr>
+ <tr><td><span class="fragment lib">λύ<span style="color: red">ουσι(ν)</span></span></td><td>de löser</td></tr>
+ <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr class="fragment lib"><td>λύειν</td><td>att lösa (infinitiv)</td></tr>
+ </tbody></table>
+ #+END_HTML
+
+*** γράφω
+
+ #+BEGIN_HTML
+  <hr/>
+ <table><tbody>
+ <tr><td><span class="fragment lib">γράφ<span style="color:red">ω</span></span></td><td>jag skriver</td></tr>
+ <tr><td><span class="fragment lib">γράφ<span style="color:red">εις</span></span></td><td>du skriver</td></tr>
+ <tr><td><span class="fragment lib">γράφ<span style="color:red">ει</span></span></td><td>han/hon skriver</td></tr>
+ <tr><td><span class="fragment lib">γράφ<span style="color:red">ομεν</span></span></td><td>vi skriver</td></tr>
+ <tr><td><span class="fragment lib">γράφ<span style="color:red">ετε</span></span></td><td>ni skriver</td></tr>
+ <tr><td><span class="fragment lib">γράφ<span style="color:red">ουσι(ν)</span></span></td><td>de skriver</td></tr>
+ <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr class="fragment lib"><td>γράφειν</td><td>att skriva (infinitiv)</td></tr>
+ </tbody></table>
+ #+END_HTML
+
+*** εἰμί
+
+ #+BEGIN_HTML
+  <hr/>
+ <table><tbody>
+ <tr><td><span class="fragment lib">εἰμί</span></td><td>jag är</td></tr>
+ <tr><td><span class="fragment lib">εἶ (< ἐσσί)</span></td><td>du är</td></tr>
+ <tr><td><span class="fragment lib">ἐστί(ν)</span></td><td>han/hon/det är</td></tr>
+ <tr><td><span class="fragment lib">ἐσμέν</span></td><td>de är</td></tr>
+ <tr><td><span class="fragment lib">ἐστέ</span></td><td>vi är</td></tr>
+ <tr><td><span class="fragment lib">εἰσί(ν)</span></td><td>ni är</td></tr>
+ <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr class="fragment lib"><td>εἶναι</td><td>att vara (infinitiv)</td></tr>
+ </tbody></table>
+ #+END_HTML
+
+** Substantiv (adjektiv, bestämd artikel) enligt första deklinationen
+
+*** οἰκία, /hus/
+
+ #+BEGIN_HTML
+ <hr/>
+ <table>
+ <tbody>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">pl. nom</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">ας</span></span></td><td style="text-align: right">gen</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">ᾳ</span></span></td><td style="text-align: right">dat</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">αν</span></span></td><td style="text-align: right">ack</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">vok</td></tr>
+ <tr><td colspan=2/>&nbsp;</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">αι</span></span></td><td style="text-align: right">pl. nom</td></tr>
+ <tr><td><span class="fragment lib">οἰκι<span style="color:deepskyblue">ῶν</span></span></td><td style="text-align: right">gen</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">αις</span></span></td><td style="text-align: right">dat</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">ας</span></span></td><td style="text-align: right">ack</td></tr>
+ <tr><td><span class="fragment lib">οἰκί<span style="color:deepskyblue">αι</span></span></td><td style="text-align: right">vok</td></tr>
+ </tbody></table>
+ #+END_HTML
+
+*** ἡ καλὴ οἰκία, /det vackra huset/
+ #+BEGIN_HTML
+ <hr/>
+ <table>
+ <tbody>
+ <tr><td><span class="fragment lib"><span style="color:deepskyblue">ἡ</span> καλ<span style="color:deepskyblue">ὴ</span> οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">pl. nom</td></tr>
+ <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ῆς</span> καλ<span style="color:deepskyblue">ῆς</span> οἰκί<span style="color:deepskyblue">ας</span></span></td><td style="text-align: right">gen</td></tr>
+ <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ῇ</span> καλ<span style="color:deepskyblue">ῇ</span> οἰκί<span style="color:deepskyblue">ᾳ</span></span></td><td style="text-align: right">dat</td></tr>
+ <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ὴν</span> καλ<span style="color:deepskyblue">ὴν</span> οἰκί<span style="color:deepskyblue">αν</span></span></td><td style="text-align: right">ack</td></tr>
+ <tr><td><span class="fragment lib">καλ<span style="color:deepskyblue">ὴ</span> οἰκί<span style="color:deepskyblue">α</span></span></td><td style="text-align: right">vok</td></tr>
+ <tr><td colspan=2/>&nbsp;</td></tr>
+ <tr><td><span class="fragment lib"><span style="color:deepskyblue">αἱ</span> καλ<span style="color:deepskyblue">αὶ</span> οἰκί<span style="color:deepskyblue">αι</span></span></td><td style="text-align: right">pl. nom</td></tr>
+ <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ῶν</span> καλ<span style="color:deepskyblue">ῶν</span> οἰκι<span style="color:deepskyblue">ῶν</span></span></td><td style="text-align: right">gen</td></tr>
+ <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">αῖς</span> καλ<span style="color:deepskyblue">αῖς</span> οἰκί<span style="color:deepskyblue">αις</span></span></td><td style="text-align: right">dat</td></tr>
+ <tr><td><span class="fragment lib">τ<span style="color:deepskyblue">ὰς</span> καλ<span style="color:deepskyblue">ὰς</span> οἰκί<span style="color:deepskyblue">ας</span></span></td><td style="text-align: right">ack</td></tr>
+ <tr><td><span class="fragment lib">καλ<span style="color:deepskyblue">αὶ</span> οἰκί<span style="color:deepskyblue">αι</span></span></td><td style="text-align: right">vok</td></tr>
+ </tbody></table>
+ #+END_HTML
+
+* Frågor på texten i  kapitel två
+
+* Αndra deklinationen
+#+REVEAL: split
+  - Substantiv (adjektiv, pronomen) böjs i /kasus/, /numerus/ (och /genus/).
+  - De ordnas i grupper, /deklinationer/, med gemensamt böjningsmönster.
+  - Grekiska har *tre* deklinationer.
+** Första deklinationen
+   \\
+   - Kallas *a*-deklinationen
+   - feminina (även vissa maskulina) stammar med långt eller kort {{{color(deepskyblue, α)}}}
+   - långt {{{color(deepskyblue, α)}}} > {{{color(deepskyblue, η)}}} i attiska, utom efter ε, ι, ρ
+   - feminina stammar får alltid långt {{{color(deepskyblue, α)}}} eller {{{color(deepskyblue, η)}}} i genitiv och dativ singularis
+** Andra deklinationen
+   \\
+   - Kallas *o*-deklinationen
+   - maskulina och neutrala (undantagsvis även feminina) stammar med {{{color(red, ο)}}}
+*** ἄνθρωπος, /människa/
+
+    #+BEGIN_HTML
+   <hr/>
+   <table>
+   <tbody>
+   <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">ος</span></span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr><td><span class="fragment lib">ἀνθρώπ<span class="masc">ου</span></span></td><td style="text-align: right">gen</td></tr>
+   <tr><td><span class="fragment lib">ἀνθρώπ<span class="masc">ῳ</span></span></td><td style="text-align: right">dat</td></tr>
+   <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">ον</span></span></td><td style="text-align: right">ack</td></tr>
+   <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">ε</span></span></td><td style="text-align: right">vok</td></tr>
+   <tr><td colspan=2/>&nbsp;</td></tr>
+   <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">οι</span></span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr><td><span class="fragment lib">ἀνθρώπ<span class="masc">ων</span></span></td><td style="text-align: right">gen</td></tr>
+   <tr><td><span class="fragment lib">ἀνθρώπ<span class="masc">οις</span></span></td><td style="text-align: right">dat</td></tr>
+   <tr><td><span class="fragment lib">ἀνθρώπ<span class="masc">ους</span></span></td><td style="text-align: right">ack</td></tr>
+   <tr><td><span class="fragment lib">ἄνθρωπ<span class="masc">οι</span></span></td><td style="text-align: right">vok</td></tr>
+   </tbody></table>
+    #+END_HTML
+
+*** ἀγαθὸς ἄνθρωπος, /en god människa/
+
+    #+BEGIN_HTML
+   <hr/>
+   <table>
+   <tbody>
+   <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ὸς</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr span class="fragment lib"><td>ἀγαθ<span class="masc">οῦ</span></td><td>ἀνθρώπ<span class="masc">ου</span></td><td style="text-align: right">gen</td></tr>
+   <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ῷ</span></td><td>ἀνθρώπ<span class="masc">ῳ</span></td><td style="text-align: right">dat</td></tr>
+   <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ὸν</span></td><td>ἄνθρωπ<span class="masc">ον</span></td><td style="text-align: right">ack</td></tr>
+   <tr span class="fragment lib"><td>ἀγαθ<span class="masc">ὲ</span></td><td>ἄνθρωπ<span class="masc">ε</span></td><td style="text-align: right">vok</td></tr>
+   <tr span class="fragment"><td colspan=3/>&nbsp;</td></tr>
+   <tr class="fragment lib"><td>ἀγαθ<span class="masc">οὶ</span></td><td>ἄνθρωπ<span class="masc">οι</span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr class="fragment lib"><td>ἀγαθ<span class="masc">ῶν</span></td><td>ἀνθρώπ<span class="masc">ων</span></td><td style="text-align: right">gen</td></tr>
+   <tr class="fragment lib"><td>ἀγαθ<span class="masc">οῖς</span></td><td>ἀνθρώπ<span class="masc">οις</span></td><td style="text-align: right">dat</td></tr>
+   <tr class="fragment lib"><td>ἀγαθ<span class="masc">οὺς</span></td><td>ἀνθρώπ<span class="masc">ους</span></td><td style="text-align: right">ack</td></tr>
+   <tr class="fragment lib"><td>ἀγαθ<span class="masc">οὶ</span></td><td>ἄνθρωπ<span class="masc">οι</span></td><td style="text-align: right">vok</td></tr>
+   </tbody></table>
+    #+END_HTML
+
+*** ὁ ἀγαθὸς ἄνθρωπος, /den goda människan/
+
+    #+BEGIN_HTML
+   <hr/>
+   <table>
+   <tbody>
+   <tr span class="fragment lib"><td><span class="masc">ὁ</span></td><td>ἀγαθ<span class="masc">ὸς</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr span class="fragment lib"><td>τ<span class="masc">οῦ</span></td><td>ἀγαθ<span class="masc">οῦ</span></td><td>ἀνθρώπ<span class="masc">ου</span></td><td style="text-align: right">gen</td></tr>
+   <tr span class="fragment lib"><td>τ<span class="masc">ῷ</span></td><td>ἀγαθ<span class="masc">ῷ</span></td><td>ἀνθρώπ<span class="masc">ῳ</span></td><td style="text-align: right">dat</td></tr>
+   <tr span class="fragment lib"><td>τ<span class="masc">ὸν</span></td><td>ἀγαθ<span class="masc">ὸν</span></td><td>ἄνθρωπ<span class="masc">ον</span></td><td style="text-align: right">ack</td></tr>
+   <tr span class="fragment lib"><td><span class="masc"></span></td><td>ἀγαθ<span class="masc">ὲ</span></td><td>ἄνθρωπ<span class="masc">ε</span></td><td style="text-align: right">vok</td></tr>
+   <tr span class="fragment"><td colspan=4/>&nbsp;</td></tr>
+   <tr class="fragment lib"><td><span class="masc">οἱ</span></td><td>ἀγαθ<span class="masc">οὶ</span></td><td>ἄνθρωπ<span class="masc">οι</span></td><td style="text-align: right">pl. nom</td></tr>
+   <tr class="fragment lib"><td>τ<span class="masc">ῶν</span></td><td>ἀγαθ<span class="masc">ῶν</span></td><td>ἀνθρώπ<span class="masc">ων</span></td><td style="text-align: right">gen</td></tr>
+   <tr class="fragment lib"><td>τ<span class="masc">οῖς</span></td><td>ἀγαθ<span class="masc">οῖς</span></td><td>ἀνθρώπ<span class="masc">οις</span></td><td style="text-align: right">dat</td></tr>
+   <tr class="fragment lib"><td>τ<span class="masc">οὺς</span></td><td>ἀγαθ<span class="masc">οὺς</span></td><td>ἀνθρώπ<span class="masc">ους</span></td><td style="text-align: right">ack</td></tr>
+   <tr class="fragment lib"><td><span class="masc"></span></td><td>ἀγαθ<span class="masc">οὶ</span></td><td>ἄνθρωπ<span class="masc">οι</span></td><td style="text-align: right">vok</td></tr>
+   </tbody></table>
+    #+END_HTML
+
+** a-deklinationen och o-deklinationen
+   \\
+    #+BEGIN_HTML
+   <table>
+   <tbody>
+   <tr span class="fragment lib"><td><span class="fem">ἡ</span></td><td>οἰκί<span class="fem">α</span></td><td/><td><span class="masc">ὁ</span></td><td>ἄνθρωπ<span class="masc">ος</span></td><td style="text-align: right">pl. nom</td><td style="text-align:right">- / -ς</td></tr>
+   <tr span class="fragment lib"><td>τ<span class="fem">ῆς</span></td><td>οἰκί<span class="fem">ας</span></td><td/><td>τ<span class="masc">οῦ</span></td><td>ἀνθρώπ<span class="masc">ου</span></td><td style="text-align: right">gen</td><td style="text-align:right">-ς / -(ι)ο</td></tr>
+   <tr span class="fragment lib"><td>τ<span class="fem">ῇ</span></td><td>οἰκί<span class="fem">ᾳ</span></td><td/><td>τ<span class="masc">ῷ</span><td>ἀνθρώπ<span class="masc">ῳ</span></td><td style="text-align: right">dat</td><td style="text-align:right">-ι</td></tr>
+   <tr span class="fragment lib"><td>τ<span class="fem">ὴν</span></td><td>οἰκί<span class="fem">αν</span></td><td/><td>τ<span class="masc">ὸν</span></td><td>ἄνθρωπ<span class="masc">ον</span></td><td style="text-align: right">ack</td><td style="text-align:right">-ν</td></tr>
+   <tr span class="fragment lib"><td><span class="fem"></span></td><td>οἰκί<span class="fem">α</span></td><td/><td><span class="masc"></span></td><td>ἄνθρωπ<span class="masc">ε</span></td><td style="text-align: right">vok</td><td style="text-align:right">-</td></tr>
+   <tr span class="fragment"><td colspan=7/>&nbsp;</td></tr>
+   <tr class="fragment lib"><td><span class="fem">αἱ</span></td><td>οἰκί<span class="fem">αι</span></td><td/><td><span class="masc">οἱ</span></td><td>ἄνθρωπ<span class="masc">οι</span></td><td style="text-align: right">pl. nom</td><td style="text-align:right">-ι</td></tr>
+   <tr class="fragment lib"><td>τ<span class="fem">ῶν</span></td><td>οἰκί<span class="fem">ῶν</span></td><td/><td>τ<span class="masc">ῶν</span></td><td>ἀνθρώπ<span class="masc">ων</span></td><td style="text-align: right">gen</td><td style="text-align:right">-ων</td></tr>
+   <tr class="fragment lib"><td>τ<span class="fem">αῖς</span></td><td>οἰκί<span class="fem">αις</span></td><td/><td>τ<span class="masc">οῖς</span></td><td>ἀνθρώπ<span class="masc">οις</span></td><td style="text-align: right">dat</td><td style="text-align:right">-ις (-ισι)</td></tr>
+   <tr class="fragment lib"><td>τ<span class="fem">ὰς</span></td><td>οἰκί<span class="fem">ας</span></td><td/><td>τ<span class="masc">οὺς</span></td><td>ἀνθρώπ<span class="masc">ους</span></td><td style="text-align: right">ack</td><td style="text-align:right">-νς</td></tr>
+   <tr class="fragment lib"><td><span class="fem"></span></td><td>οἰκί<span class="fem">αι</span></td><td/><td><span class="masc"></span></td><td>ἄνθρωπ<span class="masc">οι</span></td><td style="text-align: right">vok</td><td style="text-align:right">-ι</td></tr>
+   </tbody></table>
+    #+END_HTML
+* Kasus
+** Kasus i stället för ordföljd
+   \\
+   Markerar vilken funktion ett substantiv (nominalfras) har i en sats.
+#+REVEAL: split
+#+BEGIN_HTML
+<p>Dimitrios äter en krokodil</p>
+<p class="lib"><span class="nom">ὁ</span> Δημήτρι<span class="nom">ος</span> ἐσθίει κροκόδειλ<span class="ack">ον</span></p>
+<br/>
+<p>En krokodil äter Dimitrios</p>
+<p class="lib"><span class="ack">τὸν</span> Δημήτρι<span class="ack">ον</span> ἐσθίει κροκόδειλ<span class="nom">ος</span></p>
+#+END_HTML
+
+
+** Indoeuropeiska kasus
+   \\
+   - Nominativ
+   - Genitiv
+   - Dativ
+   - Instrumentalis
+   - Ablativ
+   - Lokativ
+   - Ackusativ
+   - Vokativ
+   - (Allativ)
+** Kasus i grekiska
+   \\
+   Grekiska har fem kasus:
+   * Nominativ
+   * Genitiv
+     - /Ablativ/
+   * Dativ
+     - /Instrumentalis/
+     - /Lokativ/
+   * Ackusativ
+   * Vokativ
+   \\
+   Ofta används preposition som ersättning för "förlorad" kasusböjning.
+
+*** Nominativ
+    \\
+    Subjektet till ett finit verb (böjt efter person och numerus)
+    #+BEGIN_HTML
+    <br/>
+    <p class="lib"><span class="nom">ὁ ἄνθρωπος</span> ἐστιν ἐν τῇ ἀγορᾷ.</p>
+    <p><span class="nom">Människan</span> är på torget.</p>
+    #+END_HTML
+*** Genitiv
+    \\
+    Tillhörighet, Smyth: /The genitive most commonly limits the meaning of substantives, adjectives, adverbs/, jämför engelskans "of ..."
+    #+BEGIN_HTML
+    <br/>
+    <p class="lib">ὁ <span class="gen">τῶν βαρβάρων</span> ἵππος</p>
+    <p><span class="gen">Barbarernas</span> häst</p>
+    <br/>
+    <p class="lib">πολλοὶ <span class="gen">τῶν ἀνθρώπων</span></p>
+    <p>många <span class="gen">av människorna</span></p>
+    #+END_HTML
+*** Dativ
+    \\
+    Det indirekta objektet, i svenska ofta efter preposition /åt/, /till/
+    #+BEGIN_HTML
+    <br/>
+    <p class="lib">θύομεν <span class="dat">τῇ Ἀθήνῃ</span>.</p>
+    <p>Vi offrar <span class="dat">åt Athena</span>.</p>
+    #+END_HTML
+*** Ackusativ
+    \\
+    Det direkta objektet
+    #+BEGIN_HTML
+    <br/>
+    <p class="lib">οἱ ἀθηναῖοι θύουσιν <span class="ack">ἵππον</span>.</p>
+    <p>Athenarna offrar en <span class="ack">häst</span>.</p>
+    #+END_HTML
+*** Vokativ
+    \\
+    Direkt tilltal
+    #+BEGIN_HTML
+    <br/>
+    <p class="lib">λέγε, ὦ <span class="vok">ἄνθρωπε</span>.</p>
+    <p>Tala, o <span class="vok">människa!</span></p>
+    #+END_HTML
+
+#+REVEAL: split
+    #+BEGIN_HTML
+    <p class="lib"><span class="nom">οἱ ἀθηναῖοι</span> <span class="ack">τὸν</span> <span class="gen">τῶν βαράρων</span> <span class="ack">ἵππον</span> <span class="dat">τῇ Ἀθήνῃ</span> θύουσιν.</p>
+    <br/>
+    <p class="fragment">Athenarna offrar barbarernas häst åt Athena.</p>
+    #+END_HTML
+* Kongruens
+** Kort om kongruens
+   \\
+   Blomqvist & Jastrup: /Med kongruens avses överrensstämmelse med avseende på formen mellan olika satsdelar./
+   #+REVEAL: split
+
+   I en sats kan {{{color(blue, substantiv)}}} (substantiverade uttryck, pronomen) bestämmas av /{{{color(green,attribut)}}}/ (/predikativa attribut/, /appositioner/):
+   \\
+   \\
+   Det {{{color(green, lilla)}}} {{{color(blue, landet)}}} har {{{color(green,små)}}} {{{color(blue,byar)}}}.
+   \\
+   \\
+   Det uttryck som en {{{color(green, bestämning)}}} bestämmer kallas bestämningens /{{{color(blue, huvudord)}}}/.
+   #+REVEAL: split
+   Det {{{color(green, lilla)}}} {{{color(blue, landet)}}} har {{{color(green,små)}}} {{{color(blue,byar)}}}.
+   \\
+   \\
+   I svenska är det oftast ordställning som avgör vilket {{{color(blue,huvudord )}}} en {{{color(green,bestämning )}}} tillhör.
+   \\
+
+   Bestämningen rättar sig också som ovan efter sitt huvudord i /numerus/ och /genus/.
+   \\
+   \\
+
+   - OBS! Gäller ej genitivattribut eller prepositionsattribut.
+   #+REVEAL: split
+   I grekiska står {{{color(green, bestämningar)}}} i allmänhet samma /kasus/, /numerus/, och /genus/ som sitt {{{color(blue, huudord)}}}.
+   \\
+   \\
+
+   Det {{{color(green, lilla)}}} {{{color(blue, landet)}}} har {{{color(green,små)}}} {{{color(blue,byar)}}}.
+   \\
+   \\
+
+   #+BEGIN_HTML
+   <p class="lib"><span class="nom">ἡ</span> <span class="green">μικρ</span><span class="nom">ὰ</span> <span class="blue">χῶρ</span><span class="nom">α</span> ἐχεὶ <span class="green">μικρ</span><span class="ack">ὰς</span> <span class="blue">κώμ</span><span class="ack">ας</span></p>
+   #+END_HTML
+   \\
+   \\
+
+   - OBS! Gäller ej genitivattribut eller prepositionsattribut.
+   #+REVEAL:split
+   Även /subjektiv/ och /objektiv/ predikatsfyllnad rättar sig i allmänhet efter subjekt och objekt i /kasus/, /numerus/ och /genus/.
+   \\
+
+   #+BEGIN_HTML
+   <br/>
+   <p class="lib"><span class="nom">ὁ</span> ἄνθρωπ<span class="nom">ός</span> ἐστιν στρατηγ<span class="nom">ός</span>.</p>
+   <p>Människan är general</p>
+   <br/>
+   <p class="lib">ἄνθρωπ<span class="ack">ον ἐμὲ</span> καλεῖτε.</p>
+   <p>Ni kallar mig människa.</p>
+   #+END_HTML
+
+   #+REVEAL: split
+   OBS! Ett attribut står i samma /kasus/, /numerus/ och /genus/ som sitt huvudord. Det betyder inte att det måste ha samma ändelse:
+   \\
+
+   #+BEGIN_HTML
+   <br/>
+   <p>Vi beundrar vackra sjömän</p>
+   <p class="lib">θαυμάζομεν καλο<span class="masc">ὺς</span> ναύτ<span class="fem">ας</span></p>
+   #+END_HTML
+   \\
+
+   Här är ναύτας, /sjömän/, ett maskulint substantiv som böjs enligt första deklinationen. Adjektivattributet καλοὺς böjs alltså efter huvudordets genus, inte efter dess deklination!
+
+
+* Övning
+** Budbäraren
+  \\
+  #+BEGIN_HTML
+  <p class="fragment lib">1. ὁ στρατηγὸς τῶν Ἀθηναίων</p>
+  <p class="fragment lib">2. οἱ Ἀθηναῖοι ἄγγελον πέμπουσι τῷ στρατηγῷ.</p>
+  <p class="fragment lib">3. ὁ στρατηγὸς πέμπει τὸν ἄγγελον εἰς τὴν αγοράν. </p>
+  <p class="fragment lib">4. ἐν τῇ ἀγορᾷ ἐισιν ἄνθρωποι κακοί.</p>
+  <p class="fragment lib">5. κακὴν ἀγγελίαν φέρει ὁ ἄγγελος. </p>
+  <p class="fragment lib">6. οἱ ἐν τῇ ἀγορᾷ ἄνθρωποι τὸν ἄγγελον ἀποκτείνουσιν.</p>
+  #+END_HTML
+** Den rättrådige Aiakos
+  #+BEGIN_HTML
+  <p class="fragment lib">7. ὁ δίκαιος Αἰακὸς Ἀθηναῖός ἐστιν.</p>
+  <p class="fragment lib">8. δίκαιος ὁ Αἰακός ἐστιν. </p>
+  <p class="fragment lib">9. ὁ Αἰακὸς ἔχει ἵππον καλὸν καὶ ἀγαθόν. </p>
+  <p class="fragment lib">10. τὸν ἵππον ὁ Αἰακὸς ἀεὶ θαυμάζει.</p>
+  <p class="fragment lib">11. ὁ Αἰακὸς καὶ ἀδελφοὺς ἔχει ἀδίκους.</p>
+  <p class="fragment lib">12. οἱ κακοὶ ἀδελφοὶ τὸν τοῦ Αἰακοῦ ἵππον κλέπτουσιν.</p>
+  <p class="fragment lib">13. βλάπτουσιν τὸν Αἰακόν. </p>
+  <p class="fragment lib">14. οἱ Ἀθηναῖοι τοὺς τοῦ Αἰακοῦ ἀδελφοὺς εὑρίσκουσι καὶ τὸν ἵππον.</p>
+  <p class="fragment lib">15. τοῦς ἀνθρώπους ἀποκτείνουσι καὶ τὸν ἵππον τῷ Αἰακῷ ἄγουσιν.</p>
+  #+END_HTML
+
+* Personliga pronomen
+** Första person - jag, vi
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="2">Singularis</td><td>Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td>Nominativ</td><td>ἐγώ</td><td></td><td>ἡμεῖς</td></tr>
+   <tr><td>Genitiv</td><td>ἐμοῦ</td><td>μου</td><td>ἡμῶν</td></tr>
+   <tr><td>Dativ</td><td>ἐμοί</td><td>μοι</td><td>ἡμῖν</td></tr>
+   <tr><td>Ackusativ</td><td>ἐμέ</td><td>με</td><td>ἡμᾶς</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - De enklitiska formerna (μου, μοι, με) är obetonade.
+   - Nominativ används vanligen inte om det inte är emfatiskt eller för att uttrycka en kontrast.
+** Andra person - du, ni
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="2">Singularis</td><td>Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td>Nominativ</td><td>σύ</td><td></td><td>ὑμεῖς</td></tr>
+   <tr><td>Genitiv</td><td>σοῦ</td><td>σου</td><td>ὑμῶν</td></tr>
+   <tr><td>Dativ</td><td>σοί</td><td>σοι</td><td>ὑμῖν</td></tr>
+   <tr><td>Ackusativ</td><td>σέ</td><td>σε</td><td>ὑμᾶς</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - De enklitiska formerna (μου, μοι, με) är obetonade.
+   - Nominativ används vanligen inte om det inte är emfatiskt eller för att uttrycka en kontrast.
+* En kort text
+  \\
+  #+BEGIN_HTML
+  <p class="lib">ἐν τῇ μικρᾷ χώρᾳ ἐστὶ κώμη.</p>
+  <p class="lib">ἐν τῇ κώμῃ οἰκίαν ἔχει ἡ Ἀφροδίτη καλήν.</p>
+  <p class="lib">φοβερά ἐστιν ἡ Ἀφροδίτη.</p>
+  <p class="lib">τὴν οἰκίαν διαφθείρει.</p>
+  <p class="lib">καλὴ ἡ τῆς Ἀφροδίτης οἰκία οὔκ ἐστιν.</p>
+  #+END_HTML
+  #+REVEAL: split
+  #+BEGIN_HTML
+  <p class="fragment lib">ἐν τ<span class="dat">ῇ</span> μικρ<span class="dat">ᾷ</span> χώρ<span class="dat">ᾳ</span> ἐστὶ κώμ<span class="nom">η</span>.</p>
+  <p class="fragment lib">ἐν τ<span class="dat">ῇ</span> κώμ<span class="dat">ῃ</span> οἰκί<span class="ack">αν</span> ἔχει <span class="nom">ἡ</span> Ἀφροδίτ<span class="nom">η</span> καλ<span class="ack">ήν</span>.</p>
+  <p class="fragment lib">φοβερ<span class="nom">ά</span> ἐστιν <span class="nom">ἡ</span> Ἀφροδίτ<span class="nom">η</span>.</p>
+  <p class="fragment lib">τ<span class="ack">ὴν</span> οἰκί<span class="ack">αν</span> διαφθείρει.</p>
+  <p class="fragment lib">καλ<span class="nom">ὴ ἡ</span> <span class="gen">τῆς</span> Ἀφροδίτ<span class="gen">ης</span> οἰκί<span class="nom">α</span> οὔκ ἐστιν.</p>
+  <br/>
+  <br/>
+  <table class="lib">
+  <tr><td>χώρα</td><td>land</td></tr>
+  <tr><td>κώμη</td><td>by</td></tr>
+  <tr><td>διαφθέιρω</td><td>förstöra</td></tr>
+  </table>
+  #+END_HTML
+* Inför kapitel fyra
+** Futurum
+   \\
+*** λύω - /jag löser/ - λύσω - /jag kommer att lösa/
+    #+BEGIN_HTML
+    <hr/>
+    <table><tbody>
+    <tr class="fragment lib"><td>λύ<span style="color: red">ω</span></td><td>λύ<span class="blue">σ</span><span style="color: red">ω</span></td></tr>
+    <tr class="fragment lib"><td>λύ<span style="color: red">εις</span></td><td>λύ<span class="blue">σ</span><span style="color: red">εις</span></td></tr>
+    <tr class="fragment lib"><td>λύ<span style="color: red">ει</span></td><td>λύ<span class="blue">σ</span><span style="color: red">ει</span></td></tr>
+    <tr class="fragment lib"><td>λύ<span style="color: red">ομεν</span></td><td>λύ<span class="blue">σ</span><span style="color: red">ομεν</span></td></tr>
+    <tr class="fragment lib"><td>λύ<span style="color: red">ετε</span></td><td>λύ<span class="blue">σ</span><span style="color: red">ετε</span></td></tr>
+    <tr class="fragment lib"><td>λύ<span style="color: red">ουσι(ν)</span></td><td>λύ<span class="blue">σ</span><span style="color: red">ουσι(ν)</span></td></tr>
+    <tr class="fragment"><td colspan="2">&nbsp;</td></tr>
+    <tr class="fragment lib"><td>λύειν</td><td>λύ<span class="blue">σ</span>ειν</td></tr>
+    </tbody></table>
+    #+END_HTML
+
+*** γράφω - /jag skriver/ - γράψω - /jag kommer att skriva/
+
+    #+BEGIN_HTML
+    <hr/>
+    <table><tbody>
+    <tr class="fragment lib"><td>γράφ<span style="color: red">ω</span></td><td>γρά<span class="blue">ψ</span><span style="color: red">ω</span></td></tr>
+    <tr class="fragment lib"><td>γράφ<span style="color: red">εις</span></td><td>γρά<span class="blue">ψ</span><span style="color: red">εις</span></td></tr>
+    <tr class="fragment lib"><td>γράφ<span style="color: red">ει</span></td><td>γρά<span class="blue">ψ</span><span style="color: red">ει</span></td></tr>
+    <tr class="fragment lib"><td>γράφ<span style="color: red">ομεν</span></td><td>γρά<span class="blue">ψ</span><span style="color: red">ομεν</span></td></tr>
+    <tr class="fragment lib"><td>γράφ<span style="color: red">ετε</span></td><td>γρά<span class="blue">ψ</span><span style="color: red">ετε</span></td></tr>
+    <tr class="fragment lib"><td>γράφ<span style="color: red">ουσι(ν)</span></td><td>γρά<span class="blue">ψ</span><span style="color: red">ουσι(ν)</span></td></tr>
+    <tr class="fragment"><td colspan="2">&nbsp;</td></tr>
+    <tr class="fragment lib"><td>γράφειν</td><td>γρά<span class="blue">ψ</span>ειν</td></tr>
+     </tbody></table>
+    #+END_HTML
+
+
+  #+BEGIN_HTML
+  #+END_HTML

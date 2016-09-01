@@ -1,0 +1,39 @@
+.lib {
+    font-family: Linux Libertine G;
+}
+
+.fem {
+    color: deepskyblue;
+}
+
+.masc {
+    color: red;
+}
+
+.nom {
+    color: deepskyblue;
+}
+
+.ack {
+    color: red;
+}
+
+.gen {
+    color: green;
+}
+
+.dat {
+    color: chocolate;
+}
+
+.vok {
+    color: lightblue;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
