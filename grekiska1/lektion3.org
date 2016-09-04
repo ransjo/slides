@@ -51,9 +51,9 @@
  <tr><td><span class="fragment lib">εἰμί</span></td><td>jag är</td></tr>
  <tr><td><span class="fragment lib">εἶ (< ἐσσί)</span></td><td>du är</td></tr>
  <tr><td><span class="fragment lib">ἐστί(ν)</span></td><td>han/hon/det är</td></tr>
- <tr><td><span class="fragment lib">ἐσμέν</span></td><td>de är</td></tr>
- <tr><td><span class="fragment lib">ἐστέ</span></td><td>vi är</td></tr>
- <tr><td><span class="fragment lib">εἰσί(ν)</span></td><td>ni är</td></tr>
+ <tr><td><span class="fragment lib">ἐσμέν</span></td><td>vi är</td></tr>
+ <tr><td><span class="fragment lib">ἐστέ</span></td><td>ni är</td></tr>
+ <tr><td><span class="fragment lib">εἰσί(ν)</span></td><td>de är</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
  <tr class="fragment lib"><td>εἶναι</td><td>att vara (infinitiv)</td></tr>
  </tbody></table>
@@ -102,7 +102,7 @@
 
 * Frågor på texten i  kapitel två
 
-* Αndra deklinationen
+* Andra deklinationen
 #+REVEAL: split
   - Substantiv (adjektiv, pronomen) böjs i /kasus/, /numerus/ (och /genus/).
   - De ordnas i grupper, /deklinationer/, med gemensamt böjningsmönster.
@@ -280,7 +280,7 @@
 
 #+REVEAL: split
     #+BEGIN_HTML
-    <p class="lib"><span class="nom">οἱ ἀθηναῖοι</span> <span class="ack">τὸν</span> <span class="gen">τῶν βαράρων</span> <span class="ack">ἵππον</span> <span class="dat">τῇ Ἀθήνῃ</span> θύουσιν.</p>
+    <p class="lib"><span class="nom">οἱ ἀθηναῖοι</span> <span class="ack">τὸν</span> <span class="gen">τῶν βαρβάρων</span> <span class="ack">ἵππον</span> <span class="dat">τῇ Ἀθήνῃ</span> θύουσιν.</p>
     <br/>
     <p class="fragment">Athenarna offrar barbarernas häst åt Athena.</p>
     #+END_HTML
@@ -310,7 +310,7 @@
 
    - OBS! Gäller ej genitivattribut eller prepositionsattribut.
    #+REVEAL: split
-   I grekiska står {{{color(green, bestämningar)}}} i allmänhet samma /kasus/, /numerus/, och /genus/ som sitt {{{color(blue, huudord)}}}.
+   I grekiska står {{{color(green, bestämningar)}}} i allmänhet samma i /kasus/, /numerus/, och /genus/ som sitt {{{color(blue, huvudord)}}}.
    \\
    \\
 
