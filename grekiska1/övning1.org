@@ -1,0 +1,116 @@
+#+Title: Grekiska 1, Övning 1
+#+Author: Jonas Ransjö
+#+Email: jonas.ransjo@lingfil.uu.se
+#+LANGUAGE: sv
+#+INCLUDE: ~/.emacs.d/org-templates/reveal.org
+#+OPTIONS: toc:1
+#+REVEAL_EXTRA_CSS: /slides/css/greek.css
+
+* Något om den bestämda artikeln
+** Obestämd form i svenska
+   \\
+   - Svenska har i /{{{color(blue, singularis)}}}/ en /obestämd artikel/ (/en/, /ett/):
+
+     - /en människa/, /ett hus/
+
+     - /en vacker människa/, /ett vackert hus
+   \\
+   - Men inte i /{{{color(blue, pluralis)}}}/:
+
+     - /människor/, /hus/
+
+     - /vackra människor/, /vackra hus/
+
+** Obestämd form i grekiska
+***  Grekiska däremot saknar obestämd artikel:
+
+     - ἄνθρωπος - /människa/, /en människa/
+
+     - καλὸς ἄνθρωπος - /en vacker människa/
+
+     - ἄνθρωποι - /människor/
+
+     - καλοὶ ἄνθρωποι - /vackra människor/
+
+*** Ibland används det indefinita pronominet τις:
+
+     - ἄνθρωπός τις - /en viss människa/
+
+*** Räkneordet εἷς (μία, ἕν), /ett/ är väldigt betonat:
+
+     - εἷς ἄνθρωπος - /just *en* vacker människa/
+
+** Bestämd form i svenska
+   - Bestämd form används när något är bekant eller pekas ut specifikt. Bestämd form visas i svenska genom /{{{color(red,ändelser )}}}/, och till /{{{color(green,attribut)}}}/ läggs även en bestämd artikel /({{{color(red,den\, det\, de)}}})/.
+
+   - I {{{color(blue, singularis )}}}:
+
+     /människ{{{color(red,an)}}}, hus{{{color(red,et)}}}/
+
+     /{{{color(red,den)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} människ{{{color(red,an)}}}, {{{color(red,det)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} hus{{{color(red,et)}}}/
+     \\
+     \\
+   - I {{{color(blue,pluralis )}}}:
+
+     /människor{{{color(/red,na)}}}, hus{{{color(red,en)}}}/
+
+     /{{{color(red,de)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} människor{{{color(red,na)}}}, {{{color(red,de)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} hus{{{color(red,en)}}}/
+
+** Bestämd form i grekiska
+   - I grekiska markeras ett bestämt substantiv alltid med den bestämda artikeln {{{color(red,ὁ\, ἡ\, τό)}}}:
+
+     {{{color(red,ὁ)}}} ἄνθρωπος - människ{{{color(red,an)}}}
+
+     {{{color(red,ὁ)}}} {{{color(green,καλὸς)}}} ἄνθρωπος - /{{{color(red,den)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} människ{{{color(red,an)}}}/
+
+          {{{color(red,οἱ)}}} {{{color(green,καλοὶ)}}} ἄνθρωποι - /{{{color(red,de)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} människor{{{color(red,na)}}}/
+
+   - OBS! Substantivets ändelser ändras inte!
+
+     - Jämför engelska:
+       /a horse, the horse, the beautiful horse/
+** Genitivattribut
+   - Ett substantiv med {{{color(green,genitivattribut)}}} kan i svenska vara bestämd utan att få ändrad ändelse:
+
+     /Han dödar {{{color(green,generalens)}}} häst./
+
+   - Vi skriver inte /{{{color(green,generalens)}}} hästen/, men det är en specifik häst som utpekas, nämligen /{{{color(green,generalens)}}}/.
+
+   - I grekiskan används som förut bestämd artikel:
+
+     {{{color(red,τὸν)}}} {{{color(green,τοῦ στρατηγοῦ)}}} ἵππον ἀποκτείνει.
+
+** Attribut har artikel
+
+   - Ett adjektiv som är {{{color(green,attribut)}}} till ett bestämt substantiv har (står innanför) den bestämda artikeln:
+
+     {{{color(red,ὁ)}}} {{{color(green,κακὸς)}}} ἄνθρωπος - den onda människan
+
+     {{{color(red,ὁ)}}} ἄνθρωπος {{{color(red,ὁ)}}} {{{color(green,κακός)}}} - den onda människan
+
+   - Står adjektivet utanför blir betydelsen en helt annan:
+
+     κακὸς {{{color(red,ὁ)}}} ἄνθρωπος - människan är ond
+* En dålig människa
+  1. ὁ Λεῖος κακός ἐστιν ἄνθρωπος.
+  2. κλέπτει γὰρ τὸν τῶν ἐμπόρων χρυσόν.
+  3. καὶ πράττει οὕτως·
+  4. πρῶτον μὲν κηρῷ χρίει τοὺς δακτύλους,
+  5. ἔπειτα δὲ βαδίζει εἰς τὴν τοῦ ἐμπόρου οἰκίαν.
+  6. ὁ δὲ ἔμπορος καθίζει παρὰ τῇ τραπέζῃ.
+  7. ὁ δὲ Λεῖος λέγει· "ἥκω τοῦ χρυσοῦ ἕνεκα."
+  8. καὶ ἕως ἐν λόγοις εἰσίν, ὁ Λεῖος χρίει τὴν τράπεζαν κάτωθεν τῷ κηρῷ.
+  9. ὁ δὲ ἔμπορος φέρει τὸν χρυσὸν καὶ ὁ Λεῖος ἐν τῷ κηρῷ κρύπτει δακτύλιον.
+  10. ὕστερον δὲ ὁ τοῦ Λείου φίλος τὸν δακτύλιον εὑρίσκει.
+
+* En dålig människa
+  1. Leios är en dålig människa.
+  2. Han stjäl nämligen köpmännens guld.
+  3. Och han gör såhär:
+  4. Först smörjer han sina fingrar med vax,
+  5. sedan går han till köpmannens hus.
+  6. Köpmannen sitter vid sitt bord.
+  7. Leios säger: "Jag är kommen (är här) för guldets skull."
+  8. Och medan de är i samtal, smörjer Leios bordet underifrån med vaxet.
+  9. Köpmannen hämtar guldet, och Leios gömmer en ring i vaxet.
+  10. Senare finner Leios vän ringen.
