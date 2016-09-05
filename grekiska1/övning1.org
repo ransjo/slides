@@ -52,7 +52,7 @@
      \\
    - I {{{color(blue,pluralis )}}}:
 
-     /människor{{{color(/red,na)}}}, hus{{{color(red,en)}}}/
+     /människor{{{color(red,na)}}}, hus{{{color(red,en)}}}/
 
      /{{{color(red,de)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} människor{{{color(red,na)}}}, {{{color(red,de)}}} {{{color(green,vack)}}}{{{color(red,ra)}}} hus{{{color(red,en)}}}/
 
