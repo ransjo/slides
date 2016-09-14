@@ -1,0 +1,208 @@
+#+Title: Grekiska 1, Övning 2
+#+Author: Jonas Ransjö
+#+Email: jonas.ransjo@lingfil.uu.se
+#+LANGUAGE: sv
+#+INCLUDE: ~/.emacs.d/org-templates/reveal.org
+#+OPTIONS: toc:1
+#+REVEAL_EXTRA_CSS: /slides/css/greek.css
+
+
+* Kort förhör
+** Tredje deklinationens -ντ-stammar
+    - λέων
+    - γίγας
+*** λέων - γίγας
+    #+BEGIN_HTML
+    <hr/>
+    <table>
+    <tbody>
+    <tr><td><span class="lib">λέων</span></td><td/><td>γίγας</td><td/><td style="text-align: right">s. nom</td></tr>
+    <tr><td><span class="fragment lib">λέοντ<span style="color:deepskyblue">ος</span></span></td><td/><td><span class="fragment lib">γίγαντ<span style="color:deepskyblue">ος</span></span></td><td/><td style="text-align: right">gen</td></tr>
+    <tr><td><span class="fragment lib">λέοντ<span style="color:deepskyblue">ι</span></span></td><td/><td><span class="fragment lib">γίγαντ<span style="color:deepskyblue">ι</span></span></td><td/><td style="text-align: right">dat</td></tr>
+    <tr><td><span class="fragment lib">λέοντ<span style="color:deepskyblue">α</span></span></td><td/><td><span class="fragment lib">γίγαντ<span style="color:deepskyblue">α</span></span></td><td/><td style="text-align: right">ack</td></tr>
+    <tr><td><span class="fragment lib">λέον<span style="color:deepskyblue"></span></span></td><td/><td><span class="fragment lib">γίγαν<span style="color:deepskyblue"></span></span></td><td/><td style="text-align: right">vok</td></tr>
+    <tr><td colspan=5/>&nbsp;</td></tr>
+    <tr><td><span class="fragment lib">λέοντ<span style="color:deepskyblue">ες</span></span></td><td/><td><span class="fragment lib">γίγαντ<span style="color:deepskyblue">ες</span></span></td><td/><td style="text-align: right">nom</td></tr>
+    <tr><td><span class="fragment lib">λεόντ<span style="color:deepskyblue">ων</span></span></td><td/><td><span class="fragment lib">γιγάντ<span style="color:deepskyblue">ων</span></span></td><td/><td style="text-align: right">gen</td></tr>
+    <tr><td><span class="fragment lib">λέου<span style="color:deepskyblue">σι(ν)</span></span></td><td/><td><span class="fragment lib">γίγα<span style="color:deepskyblue">σι(ν)</span></span></td><td/><td style="text-align: right">dat</td></tr>
+    <tr><td><span class="fragment lib">λέοντ<span style="color:deepskyblue">ας</span></span></td><td/><td><span class="fragment lib">γίγαντ<span style="color:deepskyblue">ας</span></span></td><td/><td style="text-align: right">ack</td></tr>
+    <tr><td><span class="fragment lib">λέοντ<span style="color:deepskyblue">ες</span></span></td><td/><td><span class="fragment lib">γίγαντ<span style="color:deepskyblue">ες</span></span></td><td/><td style="text-align: right">vok</td></tr>
+    </tbody></table>
+    #+END_HTML
+** Presens och Imperfekt Medium
+*** ἔρχομαι, komma, gå
+ #+BEGIN_HTML
+  <hr/>
+ <table><tbody>
+ <tr><td><span class="fragment lib">ἔρχο<span style="color:red">μαι</span></span></td><td>jag kommer</td><td><span class="fragment lib">ἠρχό<span style="color:red">μην</span></span></td><td>jag kom</td></tr>
+ <tr><td><span class="fragment lib">ἔρχ<span style="color:red">ῃ</span> < -ε<span class="red">σαι</span></span></td><td>du kommer</td><td><span class="fragment lib">ἤρχ<span style="color:red">ου</span> < -ε<span class="red">σο</span></span></td><td>du kom</td></tr>
+ <tr><td><span class="fragment lib">ἔρχε<span style="color:red">ται</span></span></td><td>han/hon kommer</td><td><span class="fragment lib">ἤρχε<span style="color:red">το</span></span></td><td>han/hon kom</td></tr>
+ <tr><td><span class="fragment lib">ἐρχό<span style="color:red">μεθα</span></span></td><td>vi kommer</td><td><span class="fragment lib">ἠρχό<span style="color:red">μεθα</span></span></td><td>vi kom</td></tr>
+ <tr><td><span class="fragment lib">ἔρχε<span style="color:red">σθε</span></span></td><td>ni kommer</td><td><span class="fragment lib">ἤρχε<span style="color:red">σθε</span></span></td><td>ni kom</td></tr>
+ <tr><td><span class="fragment lib">ἔρχο<span style="color:red">νται</span></span></td><td>de kommer</td><td><span class="fragment lib">ἤρχο<span style="color:red">ντο</span></span></td><td>de kom</td></tr>
+ </tbody></table>
+ <br>
+ <div class="fragment lib"><div>ἔρχε<span class="red">σθαι</span> - att komma, gå (infinitiv)</div></div>
+ #+END_HTML
+
+* Personliga Pronomen
+** Första person - jag, vi
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="2">Singularis</td><td>Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td>Nominativ</td><td>ἐγώ</td><td></td><td>ἡμεῖς</td></tr>
+   <tr><td>Genitiv</td><td>ἐμοῦ</td><td>μου</td><td>ἡμῶν</td></tr>
+   <tr><td>Dativ</td><td>ἐμοί</td><td>μοι</td><td>ἡμῖν</td></tr>
+   <tr><td>Ackusativ</td><td>ἐμέ</td><td>με</td><td>ἡμᾶς</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - De enklitiska formerna (μου, μοι, με) är obetonade.
+   - Nominativ används vanligen inte om det inte är emfatiskt eller för att uttrycka en kontrast.
+** Andra person - du, ni
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="2">Singularis</td><td>Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td>Nominativ</td><td>σύ</td><td></td><td>ὑμεῖς</td></tr>
+   <tr><td>Genitiv</td><td>σοῦ</td><td>σου</td><td>ὑμῶν</td></tr>
+   <tr><td>Dativ</td><td>σοί</td><td>σοι</td><td>ὑμῖν</td></tr>
+   <tr><td>Ackusativ</td><td>σέ</td><td>σε</td><td>ὑμᾶς</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - De enklitiska formerna (μου, μοι, με) är obetonade.
+   - Nominativ används vanligen inte om det inte är emfatiskt eller för att uttrycka en kontrast.
+
+** Tredje person - han, hon, den, det
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="3">Singularis</td><td></td><td colspan="3">Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td/><td>mask.</td><td>fem.</td><td>neutr.</td><td/><td>mask.</td><td>fem.</td><td>neutr.</td></tr>
+   <tr style="height: 40px;"><td colspan="8"/></tr>
+   <tr><td>N</td><td>αὐτός</td><td>αὐτή</td><td>αὐτό</td><td/><td>αὐτοί</td><td>αὐταί</td><td>αὐτά</td></tr>
+   <tr><td>G</td><td>αὐτοῦ</td><td>αὐτῆς</td><td>αὐτοῦ</td><td/><td>αὐτῶν</td><td>αὐτῶν</td><td>αὐτῶν</td></tr>
+   <tr><td>D</td><td>αὐτῷ</td><td>αὐτῇ</td><td>αὐτῷ</td><td/><td>αὐτοῖς</td><td>αὐταῖς</td><td>αὐτοῖς</td></tr>
+   <tr><td>A</td><td>αὐτόν</td><td>αὐτήν</td><td>αὐτό</td><td/><td>αὐτούς</td><td>αὐτάς</td><td>αὐτά</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - Nominativ används inte som personligt pronomen. I stället används vanligen demonstrativt pronomen.
+     - οὗτος αὕτη τοῦτο
+
+* Demonstrativa Pronomen
+** ὅδε ἥδε τόδε - denne, den här
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="3">Singularis</td><td></td><td colspan="3">Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td/><td>mask.</td><td>fem.</td><td>neutr.</td><td/><td>mask.</td><td>fem.</td><td>neutr.</td></tr>
+   <tr style="height: 40px;"><td colspan="8"/></tr>
+   <tr><td>N</td><td>ὅδε</td><td>ἥδε</td><td>τόδε</td><td/><td>οἵδε</td><td>αἵδε</td><td>τάδε</td></tr>
+   <tr><td>G</td><td>τοῦδε</td><td>τῆςδε</td><td>τοῦδε</td><td/><td>τῶνδε</td><td>τῶνδε</td><td>τῶνδε</td></tr>
+   <tr><td>D</td><td>τῷδε</td><td>τῇδε</td><td>τῷδε</td><td/><td>τοῖσδε</td><td>ταῖσδε</td><td>τοῖσδε</td></tr>
+   <tr><td>A</td><td>τόνδε</td><td>τήνδε</td><td>τόδε</td><td/><td>τούσδε</td><td>τάσδε</td><td>τάδε</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - Syftar på något som står talaren nära eller på det som skall omtalas.
+   - Bestämd artikel + -δε
+
+** οὕτος αὕτη τοῦτο - denne
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="3">Singularis</td><td></td><td colspan="3">Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td/><td>mask.</td><td>fem.</td><td>neutr.</td><td/><td>mask.</td><td>fem.</td><td>neutr.</td></tr>
+   <tr style="height: 40px;"><td colspan="8"/></tr>
+   <tr><td>N</td><td>οὗτος</td><td>αὕτη</td><td>τοῦτο</td><td/><td>οὗτοι</td><td>αὕται</td><td>ταῦτα</td></tr>
+   <tr><td>G</td><td>τούτου</td><td>ταύτης</td><td>τούτου</td><td/><td>τούτων</td><td>τοῦτων</td><td>τούτων</td></tr>
+   <tr><td>D</td><td>τούτῳ</td><td>ταύτῃ</td><td>τούτῳ</td><td/><td>τούτοις</td><td>ταύταις</td><td>τούτοις</td></tr>
+   <tr><td>A</td><td>τοῦτον</td><td>ταύτην</td><td>τοῦτο</td><td/><td>τούτους</td><td>ταύτας</td><td>ταῦτα</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - Syftar på något mindre närstående, eller på det som tidigare omtalats.
+
+** ἐκεῖνος ἐκείνη ἐκεῖνο - den där
+   \\
+   #+BEGIN_HTML
+   <table>
+   <thead>
+   <tr><td/><td colspan="3">Singularis</td><td></td><td colspan="3">Pluralis</td></tr>
+   </thead>
+   <tbody class="lib">
+   <tr><td/><td>mask.</td><td>fem.</td><td>neutr.</td><td/><td>mask.</td><td>fem.</td><td>neutr.</td></tr>
+   <tr style="height: 40px;"><td colspan="8"/></tr>
+   <tr><td>N</td><td>ἐκεῖνος</td><td>ἐκείνη</td><td>ἐκεῖνο</td><td/><td>ἐκεῖνοι</td><td>ἐκεῖναι</td><td>ἐκεῖνα</td></tr>
+   <tr><td>G</td><td>ἐκείνου</td><td>ἐκέινης</td><td>ἐκείνου</td><td/><td>ἐκείνων</td><td>ἐκείνων</td><td>ἔκείνων</td></tr>
+   <tr><td>D</td><td>ἐκείνῳ</td><td>ἐκείνῃ</td><td>ἐκείνῳ</td><td/><td>ἐκείνοις</td><td>ἐκείναις</td><td>ἐκείνοις</td></tr>
+   <tr><td>A</td><td>ἐκεῖνον</td><td>ἐκείνην</td><td>ἐκεῖνο</td><td/><td>ἐκείνους</td><td>ἐκείνας</td><td>ἐκεῖνα</td></tr>
+   </tbody>
+   </table>
+   #+END_HTML
+   \\
+   - Syftar på något mera avlägset än ὅδε och οὗτος.
+* Yngligen och Vargen
+#+BEGIN_HTML
+<div style="text-align: left;">
+<p class="fragment">νεανίσκος τὶς φύλαττει πρόβατα ἐν τοῖς ἀγροῖς ἔξω τῆς κώμης.</p>
+<p class="fragment">παίζειν δὲ βούλεται καὶ βοῇ καλέει τοὺς κωμήτας·</p>
+<p class="fragment">"ὦ κωμῆται, βοηθέετε. λύκος γὰρ ἐγγύς ἐστι καὶ τὰ πρόβατα βλάπτει."</p>
+<p class="fragment">οἱ δὲ κωμῆται ταῦτα ἀκούουσιν καὶ ἐκ τῆς κώμης ἐξέρχονται.</p>
+<p class="fragment">ἀφικνέονται μὲν πρὸς τοὺς ἀγρούς, εὑρίσκουσι δὲ λύκον οὐδενά.</p>
+<p class="fragment">λέγουσιν οὖν τῷ νεανίσκῳ "ποῦ ἐστιν ὁ λύκος;"</p>
+<p class="fragment">ὁ δὲ μετὰ τῶν προβάτων καθίζει καὶ ἀποκρίνεται ὅτι μόνον ἔπαιζεν.</p>
+<p class="fragment">οἱ δὲ κωμῆται ὀργίζονται καὶ ἀπἐρχονται.</p>
+</div>
+#+END_HTML
+#+REVEAL: split
+#+BEGIN_HTML
+<div style="text-align: left">
+<p class="fragment">ὕστερον δὲ ὁ λύκος ὄντως προσβαίνει.</p>
+<p class="fragment">ὁ οὖν νεανίσκος αὖθις μεγάλῃ βοῇ καλέει τοὺς κωμήτας·</p>
+<p class="fragment">"λύκος τὰ πρόβατα βλάπτει."</p>
+<p class="fragment">ἀλλ' οἱ κωμῆται οὐκ ἔρχονται.</p>
+<p class="fragment">νομίζουσι γὰρ τὸν νεανίσκον αὖθις παίζειν.</p>
+<p class="fragment">ὁ οὖν λύκος ἀποκτείνει τὰ πρόβατα τε καὶ τὸν νεανίσκον.</p>
+</div>
+#+END_HTML
+
+
+* Lejonet och Räven
+#+BEGIN_HTML
+<section style="text-align: left">
+<p class="fragment">Lejonet är gammalt och kan inte skaffa mat.</p>
+<p class="fragment">Det stannar därför i (sin) grotta och säger att det är sjukt.</p>
+<p class="fragment">Många djur går till lejonets grotta.</p>
+<p class="fragment">De tycker nämligen synd om lejonet.</p>
+<p class="fragment">Men lejonet äter djuren.</p>
+<p class="fragment">Räven är vis och inser sanningen.</p>
+<p class="fragment">Så hon går inte in utan stannar kvar framför grottan.</p>
+<p class="fragment">Och till lejonet säger hon ”O herre, hur mår du?”</p>
+<p class="fragment">Lejonet svarar: ”Jag mår dåligt, men varför går du inte in?”</p>
+<p class="fragment">Räven säger ”Jag går inte in, eftersom ingen kommer ut.”</p>
+</section>
+#+END_HTML
