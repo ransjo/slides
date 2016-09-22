@@ -1,4 +1,4 @@
-#+Title: Grekiska 1, Övning 2
+#+Title: Grekiska 1, Lektion 10
 #+Author: Jonas Ransjö
 #+Email: jonas.ransjo@lingfil.uu.se
 #+LANGUAGE: sv

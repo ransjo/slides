@@ -1,0 +1,108 @@
+#+Title: Grekiska 1, Övning 3
+#+Author: Jonas Ransjö
+#+Email: jonas.ransjo@lingfil.uu.se
+#+LANGUAGE: sv
+#+INCLUDE: ~/.emacs.d/org-templates/reveal.org
+#+OPTIONS: toc:1
+#+REVEAL_EXTRA_CSS: /slides/css/greek.css
+
+* Aspekt och Tid
+#+REVEAL:split
+** γράφω - skriva
+*** Presens - pågående
+    \\
+#+BEGIN_HTML
+<table>
+<tr><td>Stam</td><td>γραφ-</td></tr>
+<tr><td>Indikativ (påstående, nutid)</td><td> γράφω</tr>
+<tr><td>Indikativ (påstående, förfluten tid)</td><td>ἔ-γραφον</tr>
+<tr><td>Infinitiv</td><td>γράφειν</tr>
+<tr><td>Particip</td><td>γράφων γράφουσα γράφον</tr>
+<tr><td>Imperativ</td><td>γράφε γράφετε</tr>
+</table>
+#+END_HTML
+
+*** Aorist - punktuellt, avslutat
+    \\
+#+BEGIN_HTML
+<table>
+<tr><td>Stam</td><td>γραψα-</td></tr>
+<tr><td>Indikativ (påstående, nutid)</td><td>-</tr>
+<tr><td>Indikativ (påstående, förfluten tid)</td><td>ἔ-γραψα</tr>
+<tr><td>Infinitiv</td><td>γράψαι</tr>
+<tr><td>Particip</td><td>γράψας γράψασα γράψαν</tr>
+<tr><td>Imperativ</td><td>γράψον γράψατε</tr>
+</table>
+#+END_HTML
+
+** λαμβάνω - ta, få
+*** Presens - pågående
+    \\
+#+BEGIN_HTML
+<table>
+<tr><td>Stam</td><td>λαμβαν-</td></tr>
+<tr><td>Indikativ (påstående, nutid)</td><td> λανβάνω</tr>
+<tr><td>Indikativ (påstående, förfluten tid)</td><td>ἐ-λάμβανον</tr>
+<tr><td>Infinitiv</td><td>λαμβάνειν</tr>
+<tr><td>Particip</td><td>λαμβάνων λαμβάνουσα λαμβάνον</tr>
+<tr><td>Imperativ</td><td>λάμβανε λαμβάνετε</tr>
+</table>
+#+END_HTML
+
+*** Aorist - punktuellt, avslutat
+    \\
+#+BEGIN_HTML
+<table>
+<tr><td>Stam</td><td>λαβ-</td></tr>
+<tr><td>Indikativ (påstående, nutid)</td><td>-</tr>
+<tr><td>Indikativ (påstående, förfluten tid)</td><td>ἔ-λαβον</tr>
+<tr><td>Infinitiv</td><td>λαβεῖν</tr>
+<tr><td>Particip</td><td>λαβών λαβοῦσα λαβόν</tr>
+<tr><td>Imperativ</td><td>λαβέ λάβετε</tr>
+</table>
+#+END_HTML
+** Aspekt och tid
+   - Indikativ (av latin, utpekande) används för fakta-påståenden.
+   - Finns andra /modus/ (/modi/)
+     - Konjunktiv
+     - Optativ
+     - Imperativ
+   - Tempusformerna uttrycker i allmänhet tid bara i indikativ
+     - Presens (imperfekt)
+     - Aorist
+     - Futurum
+     - Perfekt (pluskvamperfekt)
+   - Förfluten tid visas genom augment, *ἔ*-γραφον, *ἔ*-γραψα
+#+REVEAL: split
+   ἔρχομαι, ἦλθον - /komma, gå/
+   \\
+
+   - χθὲς ἦλθομεν
+     - vi kom igår
+       \\
+       \\
+
+   - αὔριον ἔλθετε
+     - kom (ni) i morgon!
+       \\
+       \\
+
+   - κελεύω ὑμᾶς αὔριον ἐλθεῖν
+     - jag beordrar er att komma i morgon
+       \\
+       \\
+
+   - αὔριον ἔλθοντες βίβλους γράψομεν
+     - i morgon skall vi komma och skriva böcker
+     - när vi kommit i morgon, skall vi skriva böcker
+
+* Aiskylos på Sicilien
+#+BEGIN_HTML
+<div style="text-align: left;">
+</div>
+#+END_HTML
+* Helena i Egypten
+#+BEGIN_HTML
+<div style="text-align: left;">
+</div>
+#+END_HTML
