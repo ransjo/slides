@@ -1,0 +1,285 @@
+#+Title: Grekiska 1, Lektion 16
+#+Author: Jonas Ransjö
+#+Email: jonas.ransjo@lingfil.uu.se
+#+LANGUAGE: sv
+#+INCLUDE: ~/.emacs.d/org-templates/reveal.org
+#+OPTIONS: toc:1
+#+REVEAL_EXTRA_CSS: /slides/css/greek.css
+#+REVEAL_EXTRA_CSS: /slides/css/lektion10.css
+#+REVEAL_EXTRA_CSS: /css/lektion10.css
+
+
+* Text
+** ΚΥΚΛΩΨ
+  #+ATTR_HTML: :style text-align:left
+   \\
+   ὦ πάτερ, οἷα πέπονθα ὑπὸ τοῦ καταράτου ξένου, ὃς μεθύσας ἐξετύφλωσέ {{{color(deepskyblue, με)}}} {{{color(red, κοιμωμένῳ)}}} ἐπιχειρήσας.
+** ΠΟΣΕΙΔΩΝ
+  #+ATTR_HTML: :style text-align:left
+   \\
+   {{{color(deepskyblue, τίς)}}} δὲ ἦν {{{color(deepskyblue, ὁ ταῦτα τολμήσας)}}}, ὦ Πολύφημε;
+** ΚΥΚΛΩΨ
+   #+ATTR_HTML: :style text-align:left
+   \\
+   τὸ μὲν πρῶτον Οὖτιν {{{color(gold, ἑαυτὸν)}}} ἀπεκάλει, ἐπεὶ δὲ {{{color(deepskyblue, διέφυγε)}}} καὶ ἔξω {{{color(deepskyblue, ἦν)}}} βέλους, Ὀδυσσεὺς {{{color(deepskyblue, ὀνομάζεσθαι)}}} ἔφη.
+** ΠΟΣΕΙΔΩΝ
+   #+ATTR_HTML: :style text-align:left
+   \\
+   οἶδα ὃν λέγεις, τὸν Ἰθακήσιον· ἐξ Ἰλίου δ’ {{{color(deepskyblue, ἀνέπλει)}}}. ἀλλὰ πῶς ταῦτα {{{color(deepskyblue, ἔπραξεν)}}} οὐδὲ πάνυ εὐθαρσὴς ὤν;
+** ΚΥΚΛΩΨ
+   #+ATTR_HTML: :style text-align:left
+   \\
+   κατέλαβον {{{color(gold, αὐτοὺς)}}} ἐν τῷ ἄντρῳ ἀπὸ τῆς νομῆς ἀναστρέψας {{{color(gold, πολλούς τινας)}}}, {{{color(gold, ἐπιβουλεύοντας)}}} {{{color(red, δῆλον ὅτι)}}} τοῖς ποιμνίοις·
+   #+REVEAL:split
+   #+ATTR_HTML: :style text-align:left
+   ἐπεὶ γὰρ {{{color(deepskyblue, ἐπέθηκα)}}} τῇ θύρᾳ τὸ πῶμα — πέτρα δέ ἐστί {{{color(gold, μοι)}}} παμμεγέθης — καὶ τὸ πῦρ ἀνέκαυσα ἐναυσάμενος {{{color(lightgreen, ὃ)}}} {{{color(deepskyblue, ἔφερον)}}} {{{color(lightgreen, δένδρον)}}} ἀπὸ τοῦ ὄρους, {{{color(red, ἐφάνησαν)}}} ἀποκρύπτειν {{{color(gold, αὑτοὺς)}}} {{{color(red, πειρώμενοι)}}}·
+   #+REVEAL: split
+   #+ATTR_HTML: :style text-align:left
+   ἐγὼ δὲ συλλαβών τινας {{{color(red, αὐτῶν)}}}, ὥσπερ εἰκὸς ἦν, κατέφαγον {{{color(red, λῃστάς γε ὄντας)}}}.
+   #+REVEAL: split
+   #+ATTR_HTML: :style text-align:left
+   ἐνταῦθα {{{color(deepskyblue, ὁ πανουργότατος ἐκεῖνος)}}}, {{{color(gold, εἴτε)}}} Οὖτις {{{color(gold, εἴτε)}}} Ὀδυσσεὺς ἦν, δίδωσί μοι πιεῖν φάρμακόν τι ἐγχέας, ἡδὺ μὲν καὶ εὔοσμον, ἐπιβουλό{{{color(khaki,τατον)}}} δὲ καὶ ταραχωδέσ{{{color(khaki,τατον)}}}·
+   #+REVEAL: split
+   #+ATTR_HTML: :style text-align: left
+   ἅπαντα γὰρ εὐθὺς ἐδόκει {{{color(gold, μοι)}}} περιφέρεσθαι {{{color(gold, πιόντι)}}} καὶ τὸ σπήλαιον αὐτὸ ἀνεστρέφετο, τέλος δὲ εἰς ὕπνον {{{color(red,κατεσπάσθην)}}}.
+   #+REVEAL: split
+   #+ATTR_HTML: :style text-align:left
+   {{{color(red, ὁ δὲ)}}} ἀποξύνας τὸν μοχλὸν καὶ πυρώσας προσέτι ἐτύφλωσέ {{{color(deepskyblue, με καθεύδοντα)}}}, καὶ ἀπ ’ ἐκείνου τυφλός εἰμί {{{color(gold, σοι)}}}, ὦ Πόσειδον.
+** Mellanspel
+   #+ATTR_HTML: :style text-align: left
+   \\
+   Poseidon undrar hur Odysseus kunde komma ut ur grottan och Kyklopen berättar att det var han själv som tog bort klipphällen från grottöppningen för att han skulle kunna gripa Odysseus och hans män när de försökte smyga sig ut. Men gömda bland fåren, Odysseus själv under den största baggen, kunde de ta sig ut och komma undan.
+   #+ATTR_HTML: :style text-align: left
+   Du borde ha kallat de andra kykloperna till hjälp, säger Poseidon. Kyklopen svarar:
+** ΚΥΚΛΩΨ
+   #+ATTR_HTML: :style text-align:left
+   \\
+   συνεκάλεσα, ὦ πάτερ, καὶ ἧκον· ἐπεὶ δὲ ἤροντο τοῦ ἐπιβουλεύοντος τοὔνομα κἀγὼ {{{color(deepskyblue, ἔφην ὅτι Οὖτίς ἐστι)}}}, μελαγχολᾶν {{{color(red, οἰηθέντες)}}} με {{{color(red, ἀπιόντες ᾤχοντο)}}}.
+   #+REVEAL:split
+   #+ATTR_HTML: :style text-align:left
+   οὕτω κατεσοφίσατό με ὁ κατάρατος {{{color(red, τῷ ὀνόματι)}}}. καὶ ὃ μάλιστα ἠνίασέ με, ὅτι καὶ ὀνειδίζων ἐμοὶ τὴν συμφοράν, οὐδὲ ὁ πατήρ, φησίν, ὁ Ποσειδῶν ἰάσεται σε.
+** ΠΟΣΕΙΔΩΝ
+   #+ATTR_HTML: :style text-align:left
+   \\
+   {{{color(deepskyblue, θάρρει)}}}, ὦ τέκνον· ἀμυνοῦμαι γὰρ αὐτόν, ὡς {{{color(deepskyblue, μάθῃ)}}} ὅτι, εἰ καὶ {{{color(lightgreen, πήρωσίν)}}} {{{color(gold, μοι)}}} {{{color(red, τῶν ὀφθαλμῶν)}}} {{{color(deepskyblue, ἰᾶσθαι ἀδύνατον)}}}, τὰ γοῦν τῶν πλεόντων ἐπ ’ ἐμοί ἐστι· πλεῖ δὲ ἔτι.
+
+* Repetition
+* Kappa-aorister
+** Finns tre
+   - ἔθηκα
+     - presens τίθημι, sätter
+     - stam θε- (utom i indikativ aktivum singularis, θηκ-)
+       \\
+       \\
+   - ἥκα
+     - presens ἵημι, kastar
+     - stam ἑ- (utom i indikativ aktivum singularis, ἡκ-)
+       \\
+       \\
+   - ἔδωκα
+     - presens δίδωμι, ger
+     - stam δο- (utom i indikativ aktivum singularis, δωκ-)
+       \\
+       \\
+   - Vanliga ändelser
+
+** Indikativ Aktivum
+   \\
+#+BEGIN_HTML
+<table>
+<tbody>
+<tr><td>ἔθηκα</td><td>ἔδωκα</td></tr>
+<tr><td>ἔθηκας</td><td>ἔδωκας</td></tr>
+<tr><td>ἔθηκε(ν)</td><td>ἔδωκε(ν)</td></tr>
+<tr><td>ἔθεμεν</td><td>ἔδομεν</td></tr>
+<tr><td>ἔθετε</td><td>ἔδοτε</td></tr>
+<tr><td>ἔθεσαν</td><td>ἔδοσαν</td></tr>
+</tbody>
+</table>
+#+END_HTML
+** Konjunktiv Aktivum
+   \\
+#+BEGIN_HTML
+<table>
+<tbody>
+<tr><td>θέ-ω</td><td>θῶ</td><td /><td>δό-ω</td><td>δῶ</td></tr>
+<tr><td>θέ-ῃς</td><td>θῇς</td><td /><td>δό-ῃς</td><td>δῷς</td></tr>
+<tr><td>θέ-ῃ</td><td>θῇ</td><td /><td>δό-ῃ</td><td>δῷ</td></tr>
+<tr><td>θέ-ωμεν</td><td>θῶμεν</td><td /><td>δό-ωμεν</td><td>δῶμεν</td></tr>
+<tr><td>θέ-ητε</td><td>θῇτε</td><td /><td>δό-ητε</td><td>δῶτε</td></tr>
+<tr><td>θέ-ωσι(ν)</td><td>θῶσι(ν)</td><td /><td>δό-ωσι(ν)</td><td>δῶσι(ν)</td></tr>
+</tbody>
+</table>
+#+END_HTML
+
+** Optativ Aktivum
+   \\
+#+BEGIN_HTML
+<table>
+<tbody>
+<tr><td>θε-<span class="nom">ίη</span>-ν</td><td>θείην</td><td /><td>δο-<span class="nom">ίη</span>-ν</td><td>δοίην</td></tr>
+<tr><td>θε-<span class="nom">ίη</span>-ς</td><td>θείης</td><td /><td>δο-<span class="nom">ίη</span>-ς</td><td>δοίης</td></tr>
+<tr><td>θε-<span class="nom">ίη</span></td><td>θείη</td><td /><td>δο-<span class="nom">ίη</span></td><td>δοίη</td></tr>
+<tr><td>θέ-<span class="nom">ι</span>-μεν</td><td>θεῖμεν</td><td /><td>δό-<span class="nom">ι</span>-μεν</td><td>δοῖμεν</td></tr>
+<tr><td>θέ-<span class="nom">ι</span>-τε</td><td>θεῖτε</td><td /><td>δό-<span class="nom">ι</span>-τε</td><td>δοῖτε</td></tr>
+<tr><td>θέ-<span class="nom">ι</span>-εν</td><td>θεῖεν</td><td /><td>δό-<span class="nom">ι</span>-εν</td><td>δοῖεν</td></tr>
+</tbody>
+</table>
+#+END_HTML
+** Medium
+\\
+#+BEGIN_HTML
+<table>
+<tbody>
+<tr><td>ἐθέ-μην</td><td>θῶ-μαι</td><td>θε<span class="nom">ί</span>-μην</td><td/><td>ἐδό-μην</td><td>δῶ-μαι</td><td>δο<span class="nom">ί</span>μην</td></tr>
+<tr><td>ἔθου</td><td>θῇ</td><td>θε<span class="nom">ῖ</span>ο</td><td/><td>ἔδου</td><td>δῷ</td><td>δο<span class="nom">ῖ</span>ο</td></tr>
+<tr><td>ἔθε-το</td><td>θῆ-ται</td><td>θε<span class="nom">ῖ</span>-το</td><td/><td>ἔδο-το</td><td>δῶ-ται</td><td>δο<span class="nom">ῖ</span>το</td></tr>
+<tr><td>ἐθέ-μεθα</td><td>θῶ-μεθα</td><td>θε<span class="nom">ί</span>-μεθα</td><td/><td>ἐδό-μεθα</td><td>δώ-μεθα</td><td>δο<span class="nom">ί</span>μεθα</td></tr>
+<tr><td>ἔθε-σθε</td><td>θῆ-σθε</td><td>θε<span class="nom">ῖ</span>-σθε</td><td/><td>ἔδο-σθε</td><td>δῶ-σθε</td><td>δο<span class="nom">ῖ</span>σθε</td></tr>
+<tr><td>ἔθε-ντο</td><td>θῶ-νται</td><td>θε<span class="nom">ῖ</span>-ντο</td><td/><td>ἔδό-ντο</td><td>δῶ-νται</td><td>δο<span class="nom">ῖ</span>ντο</td></tr>
+</tbody>
+</table>
+#+END_HTML
+\\
+ - Atematiska former - ingen tema/binde-vokal
+ - Vanliga sekundära ändelser för indikativ och optativ
+ - Primära för konjunktiv
+** Imperativ
+   \\
+   - δός
+   - δότε
+   \\
+   - θές
+   - θέτε
+
+** δός μοι ποῦ στῶ καὶ τὴν γὴν κινήσω
+
+** Infinitiv
+   \\
+   - -εναι till stammen
+   \\
+   - θέ-εναι
+     - > θεῖναι
+       \\
+       \\
+   - δό-εναι
+     - > δοῦναι
+
+** Particip
+   \\
+   Hur bildas particip i allmänhet?
+   \\
+*** Mediala particip
+      - -μενος, -μενη, -μενον till stammen
+        - tematiskt med -o
+        - atematiskt direkt till stammen
+          \\
+          \\
+      - λυ-ό-μενος -η -ον
+      - τιθέ-μενος -η -ον
+      - διδό-μενος -η -ον
+
+*** Aktiva particip (utom perfekt) och passiva aoristus 1 och 2: -ντ-
+
+#+BEGIN_HTML
+<table>
+<tr>
+<td>λύων</td>
+<td>λύουσα</td>
+<td>λύον</td>
+</tr>
+<tr>
+<td>λύ-ο-ντος</td>
+<td>λυ-ού-σης</td>
+<td>λύ-ο-ντος</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td>λύσας</td>
+<td>λύσασα</td>
+<td>λύσαν</td>
+</tr>
+<tr>
+<td>λύσα-ντος</td>
+<td>λυσά-σης</td>
+<td>λύσα-ντος</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td>παιδευθείς</td>
+<td>παιδευθεῖσα</td>
+<td>παιδευθέν</td>
+</tr>
+<tr>
+<td>παιδευθέ-ντος</td>
+<td>παιδευθεί-σης</td>
+<td>παιδευθέ-ντος</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td>τιθείς</td>
+<td>τιθεῖσα</td>
+<td>τιθέν</td>
+</tr>
+<tr>
+<td>τιθέ-ντος</td>
+<td>τιθεί-σης</td>
+<td>τιθέ-ντος</td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td>διδούς</td>
+<td>διδοῦσα</td>
+<td>διδόν</td>
+</tr>
+<tr>
+<td>διδό-ντος</td>
+<td>διδού-σης</td>
+<td>διδό-ντος</td>
+</tr>
+</table>
+#+END_HTML
+
+*** Mönster ?
+#+ATTR_REVEAL: :frag (appear)
+    * -ντ- i maskulinum och neutrum
+    * -ντ-ια- i femininum
+      \\
+      \\
+    * ἔθηκα ?
+    * stam θε-
+    * θε-ντς > θεις
+      - θεντος
+    * θε-ντ-ια > θενσα > θεισα
+
+    * ἔδωκα ?
+    * stam δο-
+    * δο-ντς > δους
+      * δοντος
+    * δο-ντ-ια > δονσα > δουσα
+
+
+* Komparativ och Superlativ
+  - -τερος, -τατος
+  - -ιων, -ιστος
+    \\
+  - Komparativ genitiv
+  - Partitiv genitiv
+* Adverb
+  - -ως
+  - -τερον
+  - -τατα
+
+* Övningar

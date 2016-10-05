@@ -97,12 +97,40 @@
      - när vi kommit i morgon, skall vi skriva böcker
 
 * Aiskylos på Sicilien
-#+BEGIN_HTML
-<div style="text-align: left;">
-</div>
-#+END_HTML
+  Αἴσχυλος ὁ ποιητὴς γέρων γενόμενος, φαλακρὸς ἦν.
+
+  ἐπεὶ δέ ποτε ἐν τοῖς ἀγροῖς ἐβάδιζεν, ἀετός ἐπέτετο ὑπὲρ αὐτοῦ, χελώνην ἔχων ἐν τοῖς ὄνυξιν.
+
+  βουλόμενος δὲ τὴν χελώνην ἐσθίειν, οὐκ ἐδύνατο διὰ τὸ δέρμα.
+
+  ἰδὼν δὲ τὴν τοῦ Αἰσχύλου κεφαλὴν λευκὴν οὖσαν, ἐνόμιζε λίθον εἶναι.
+
+  κατέβαλεν οὖν τὴν χελώνην ἐπὶ τὴν κεφαλὴν, βουλόμενος τὸ δέρμα κατακόπτειν.
+
+  ἡ δὲ χελώνη πεσοῦσα ἀπέκτεινε τὸν Αἴσχυλον.
+
 * Helena i Egypten
 #+BEGIN_HTML
 <div style="text-align: left;">
 </div>
 #+END_HTML
+
+* Relativsatser
+
+ὁ ἄνθρωπος, ὅν ἐσθίων εἶδον, καλός ἐστιν.
+
+* Particip
+Stridande dör vi.
+ἀποθνήσκομεν μαχόμενοι.
+
+Den gamla mannen säger ingenting, eftersom han är vis.
+
+Eftersom den gamla mannen är vis, beundrar vi honom.
+
+När den gamla mannen kom, flydde vi.
+
+Sedan vi funnit torget tomt, gick vi iväg.
+
+Vi beundrar dem som segrat.
+
+Vi kommer att segra, då vi är modiga.
