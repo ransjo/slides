@@ -255,20 +255,20 @@
 *** Mönster ?
 #+ATTR_REVEAL: :frag (appear)
     * -ντ- i maskulinum och neutrum
-    * -ντ-ια- i femininum
+    * -ντ-jα- i femininum
       \\
       \\
     * ἔθηκα ?
     * stam θε-
     * θε-ντς > θεις
       - θεντος
-    * θε-ντ-ια > θενσα > θεισα
+    * θε-ντ-jα > θενσα > θεισα
 
     * ἔδωκα ?
     * stam δο-
     * δο-ντς > δους
       * δοντος
-    * δο-ντ-ια > δονσα > δουσα
+    * δο-ντ-jα > δονσα > δουσα
 
 
 * Komparativ och Superlativ
